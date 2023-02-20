@@ -1,0 +1,43 @@
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  p {
+    font-size: 18px;
+    color: #666;
+  }
+  
+  form label {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  form input,
+  form textarea {
+    border-radius: 0;
+  }
+  
+  form input:focus,
+  form textarea:focus {
+    border-color: #666;
+    box-shadow: none;
+  }
+  
+  form button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 0;
+    background-color: #333;
+    border-color: #333;
+  }
+  
+  form button:hover {
+    background-color: #666;
+    border-color: #666;
+  }
+  
