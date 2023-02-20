@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom"
 import NavBar from "../navBar/NavBar"
 import styles from './Header.module.css'
-import imgLogoIbasmesp from '../../src/imgs/logo/imgLogoIbamesp.png'
+import imgLogoIbasmesp from 'src/imgs/logo/imgLogoIbamesp.png'
 
 function Header() {
     return (
