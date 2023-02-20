@@ -17,13 +17,13 @@ function Home() {
             <section className={`services ${styles.services}`}>
                 <div className={`container ${styles.container}`}>
                     <h2 className="text-center">Conheça a gente</h2>
-                    <p className="text-center">Aqui você pode apresentar os serviços oferecidos pelo seu site ou projeto.</p>
+                    <p className="text-center">Venhar ver um pouco sobre a gente</p>
                     <div className="row">
                         <div className="col-md-4">
                             <div className={`card ${styles.card}`}>
                                 <div className={`card-body ${styles.cardBody}`}>
                                     <h5 className={`card-title ${styles.cardTitle}`}>Próximos eventos</h5>
-                                    <p className={`card-text ${styles.cardText}`}>Aqui você pode escrever uma pequena descrição sobre o serviço 1.</p>
+                                    <p className={`card-text ${styles.cardText}`}>Nesta caixa, vamos colocar somente o próximo evento.</p>
                                 </div>
                             </div>
                         </div>
@@ -31,7 +31,7 @@ function Home() {
                             <div className={`card ${styles.card}`}>
                                 <div className={`card-body ${styles.cardBody}`}>
                                     <h5 className={`card-title ${styles.cardTitle}`}>Galeria</h5>
-                                    <p className={`card-text ${styles.cardText}`}>Aqui você pode escrever uma pequena descrição sobre o serviço 2.</p>
+                                    <p className={`card-text ${styles.cardText}`}>Clique aqui para ver fotos e vídeos da IBAMESP.</p>
                                 </div>
                             </div>
                         </div>
@@ -39,7 +39,7 @@ function Home() {
                             <div className={`card ${styles.card}`}>
                                 <div className={`card-body ${styles.cardBody}`}>
                                     <h5 className={`card-title ${styles.cardTitle}`}>Quem somos</h5>
-                                    <p className={`card-text ${styles.cardText}`}>Aqui você pode escrever uma pequena descrição sobre o serviço 3.</p>
+                                    <p className={`card-text ${styles.cardText}`}>Breve resumo da história da igreja.</p>
                                 </div>
                             </div>
                         </div>
